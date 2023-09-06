@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/delolive-frontend/static/css/main.3f968119.css",
-    "main.js": "/delolive-frontend/static/js/main.1369962f.js",
+    "main.js": "/delolive-frontend/static/js/main.728f77e2.js",
     "static/media/aszh.svg": "/delolive-frontend/static/media/aszh.57aefb6d1808ac3aa691.svg",
     "static/media/swissre.svg": "/delolive-frontend/static/media/swissre.ead18908f39e08c2f84f.svg",
     "static/media/vss_logo.svg": "/delolive-frontend/static/media/vss_logo.7a1c384493978cee1a83.svg",
@@ -17,9 +17,9 @@
     "static/media/hendManney.svg": "/delolive-frontend/static/media/hendManney.27a2aedf06c4df84002b.svg",
     "static/media/moveTouch.svg": "/delolive-frontend/static/media/moveTouch.4ab487bea79769e0adc8.svg",
     "static/media/fingerScan.svg": "/delolive-frontend/static/media/fingerScan.1bcf18c11d44742f50bf.svg",
+    "index.html": "/delolive-frontend/index.html",
     "static/media/Inst.svg": "/delolive-frontend/static/media/Inst.f0e4eea34b54dec3c976.svg",
     "static/media/InfinityIcon.svg": "/delolive-frontend/static/media/InfinityIcon.d955ea2d80c75cacf0becb87a4c88611.svg",
-    "index.html": "/delolive-frontend/index.html",
     "static/media/Telegramm.svg": "/delolive-frontend/static/media/Telegramm.bb6aa7c0ed01fb04f267.svg",
     "static/media/Account-icon.svg": "/delolive-frontend/static/media/Account-icon.5a152146c83f5a57f59d.svg",
     "static/media/hand.svg": "/delolive-frontend/static/media/hand.767c583ce95b18a9ed34.svg",
@@ -31,10 +31,10 @@
     "static/media/check.svg": "/delolive-frontend/static/media/check.f719184a9165af310cdb.svg",
     "static/media/OpenIcon.svg": "/delolive-frontend/static/media/OpenIcon.3efde331db7dcee19a13.svg",
     "main.3f968119.css.map": "/delolive-frontend/static/css/main.3f968119.css.map",
-    "main.1369962f.js.map": "/delolive-frontend/static/js/main.1369962f.js.map"
+    "main.728f77e2.js.map": "/delolive-frontend/static/js/main.728f77e2.js.map"
   },
   "entrypoints": [
     "static/css/main.3f968119.css",
-    "static/js/main.1369962f.js"
+    "static/js/main.728f77e2.js"
   ]
 }
