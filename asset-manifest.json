@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/delolive-frontend/static/css/main.3f968119.css",
+    "main.js": "/delolive-frontend/static/js/main.1369962f.js",
+    "static/media/aszh.svg": "/delolive-frontend/static/media/aszh.57aefb6d1808ac3aa691.svg",
+    "static/media/swissre.svg": "/delolive-frontend/static/media/swissre.ead18908f39e08c2f84f.svg",
+    "static/media/vss_logo.svg": "/delolive-frontend/static/media/vss_logo.7a1c384493978cee1a83.svg",
+    "static/media/reyting_logo.svg": "/delolive-frontend/static/media/reyting_logo.9abc0d05987ddb94323d.svg",
+    "static/media/raex_logo.svg": "/delolive-frontend/static/media/raex_logo.76a1cca6791bf17f0585.svg",
+    "static/media/RNRC.svg": "/delolive-frontend/static/media/RNRC.754eb8118aeef044846d.svg",
+    "static/media/Logo.svg": "/delolive-frontend/static/media/Logo.16ed9d76113a94bc04a5.svg",
+    "static/media/time.png": "/delolive-frontend/static/media/time.e21ff2f83efacf0e94eb.png",
+    "static/media/shild.png": "/delolive-frontend/static/media/shild.4db1804f710d4369481d.png",
+    "static/media/Health.svg": "/delolive-frontend/static/media/Health.2a87c68a67e78480e3fb1cc74e6eb3e1.svg",
+    "static/media/Medicine.svg": "/delolive-frontend/static/media/Medicine.5180746ba097c975b6c7db8e0ea17aff.svg",
+    "static/media/Vk.svg": "/delolive-frontend/static/media/Vk.5ad842639bbb4f1aa5ac.svg",
+    "static/media/hendManney.svg": "/delolive-frontend/static/media/hendManney.27a2aedf06c4df84002b.svg",
+    "static/media/moveTouch.svg": "/delolive-frontend/static/media/moveTouch.4ab487bea79769e0adc8.svg",
+    "static/media/fingerScan.svg": "/delolive-frontend/static/media/fingerScan.1bcf18c11d44742f50bf.svg",
+    "static/media/Inst.svg": "/delolive-frontend/static/media/Inst.f0e4eea34b54dec3c976.svg",
+    "static/media/InfinityIcon.svg": "/delolive-frontend/static/media/InfinityIcon.d955ea2d80c75cacf0becb87a4c88611.svg",
+    "index.html": "/delolive-frontend/index.html",
+    "static/media/Telegramm.svg": "/delolive-frontend/static/media/Telegramm.bb6aa7c0ed01fb04f267.svg",
+    "static/media/Account-icon.svg": "/delolive-frontend/static/media/Account-icon.5a152146c83f5a57f59d.svg",
+    "static/media/hand.svg": "/delolive-frontend/static/media/hand.767c583ce95b18a9ed34.svg",
+    "static/media/Facebook.svg": "/delolive-frontend/static/media/Facebook.118c881f26d7099153a2.svg",
+    "static/media/search.svg": "/delolive-frontend/static/media/search.395f8bc9b1bd8d335a7b.svg",
+    "static/media/infoIcon.svg": "/delolive-frontend/static/media/infoIcon.8256a8f39fc544fd3a1d.svg",
+    "static/media/time.svg": "/delolive-frontend/static/media/time.f5c58a3421278398fc04.svg",
+    "static/media/guard.svg": "/delolive-frontend/static/media/guard.46e7fccee0e6f63b9387.svg",
+    "static/media/check.svg": "/delolive-frontend/static/media/check.f719184a9165af310cdb.svg",
+    "static/media/OpenIcon.svg": "/delolive-frontend/static/media/OpenIcon.3efde331db7dcee19a13.svg",
+    "main.3f968119.css.map": "/delolive-frontend/static/css/main.3f968119.css.map",
+    "main.1369962f.js.map": "/delolive-frontend/static/js/main.1369962f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f968119.css",
+    "static/js/main.1369962f.js"
+  ]
+}
