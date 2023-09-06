@@ -1,0 +1,10 @@
+.News{
+    margin-top: 1480px;
+    @media(max-width:1000px){
+        margin-top: 1354px;
+    }
+    @media(max-width:768px){
+        margin-top: 110px;
+    }
+   
+}

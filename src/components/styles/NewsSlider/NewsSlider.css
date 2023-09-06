@@ -1,0 +1,12 @@
+.NewsSlider {
+  position: relative;
+}
+.NewsSlider::before {
+  content: "";
+  height: 23px;
+  width: 23px;
+  background: url(../../../assets/images/Main-images/moveTouch.svg);
+  position: absolute;
+  top: -36px;
+  right: 22px;
+}/*# sourceMappingURL=NewsSlider.css.map */

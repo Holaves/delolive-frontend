@@ -1,0 +1,54 @@
+.BurgerMenu{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 99;
+    height: auto;
+    max-width: 592px;
+    width: 100%;
+    min-height: 20px;
+    background-color: #FFF;
+    border-radius: 0px 0px 0px 80px;
+    display: flex;
+    justify-content: center;
+
+    &__wrapper{
+        width: calc(592px - 95px - 52px);
+        }
+}
+
+////////////
+
+.BurgerMenu__head{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Personal-nav_burger{
+    max-width: 279px;
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 30px;
+    padding: 15px 20px;
+    box-shadow: 0px 2px 18px 0px rgba(41, 41, 41, 0.10);
+    h5{
+        font-family: 'SF Pro Display';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        white-space: nowrap;
+        color: #193554;
+        
+    }
+    &__icon{
+        background: url(../../../assets/images/UI-images/Navbar-images/Account-icon.svg) no-repeat center center / cover;
+        width: 28px;
+        height: 28px;
+        margin-left: 14px;
+    }
+}
+
+///////////
